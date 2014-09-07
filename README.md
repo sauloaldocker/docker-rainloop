@@ -19,7 +19,7 @@ Open your browser and visit
 
 Admin panel 
 
-	http://127.0.0.1:8080
+	http://127.0.0.1:8080/?admin
     login: admin
     password: 12345
 
